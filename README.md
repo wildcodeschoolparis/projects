@@ -1,5 +1,4 @@
 # projects
 
-### Project1 
-  - [notes](notes)
-  - [rendus](rendus)
+### Project1
+[[notes](notes)] [[rendus](rendus)]
