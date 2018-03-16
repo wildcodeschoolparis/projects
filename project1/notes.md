@@ -22,7 +22,7 @@
 - légers soucis de design
 - bonne aisance a l’oral
 ---
-- attention au travail de dernière minute, faites des compromis plus tôt
+- attention au travail de dernière minute
 
 #### Groupe Yvan (philippe)
 - architecture de site originale (peu classique justement)
