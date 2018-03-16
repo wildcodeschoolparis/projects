@@ -1,4 +1,4 @@
 # projects
 
 ### Project1
-[[notes](notes)] [[rendus](rendus)]
+[[notes](project1/notes)] [[rendus](project1/rendus)]
