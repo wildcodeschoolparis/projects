@@ -69,7 +69,7 @@
 - attention a ce qui se cache derrière vos fenêtres si vous les 'resizer' pour montrer le responsive
 
 ### Groupe Carlos (alexis)
-- ne pas commencer par ce qu’il ne va pas (“On a quelques soucis..”)
+- ne pas commencer par ce qu’il ne va pas (“On a quelques soucis...”)
 - ne faites pas vos propres critiques
 
 ---
