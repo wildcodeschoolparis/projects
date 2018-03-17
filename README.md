@@ -1,4 +1,7 @@
 # projects
 
-### Project1
-[[notes](project1/notes.md)] [[rendus](project1/rendus.md)]
+### [Project1](project1)
+
+Site static type blog HTML / CSS
+[[retro](project1/retro.md)]
+[[rendus](project1/rendus.md)]
