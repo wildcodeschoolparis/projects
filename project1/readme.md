@@ -23,3 +23,6 @@ Vous présenterez vos travaux en situation de live demo devant le client, entrai
 - formulaire de contact
 - git & github (bonus: github pages)
 - images libres de droit (vos propres photos si vous le souhaitez)
+
+[[retro](project1/retro.md)]
+[[rendus](project1/rendus.md)]
