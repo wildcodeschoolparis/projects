@@ -104,3 +104,13 @@
   - Frédéric Paquet
 
 [sources](https://github.com/capucinel/wildocodak)
+
+---
+
+### [kraamel.github.io/Wildo-Codak](https://kraamel.github.io/Wildo-Codak)
+  - Helena Domlan
+  - Valery Chin
+  - Amel Braiek
+  - Ludivine Pellissier
+
+[sources](https://github.com/Kraamel/Wildo-Codak)
