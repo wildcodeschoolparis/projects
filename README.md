@@ -7,3 +7,5 @@ Site static type blog HTML / CSS
 [[rendus](project1/rendus.md)]
 
 ### [Project2](project2)
+
+Full stack JS web site
