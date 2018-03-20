@@ -19,12 +19,13 @@ Vous présenterez vos travaux en situation de live demo devant le client, entrai
 - scrum/agile (1 week sprints)
 - git workflow / github
 - backend API (nodeJS)
-- database (SQL)
+- database (mySQL)
 - routing (express)
 - frontend (github pages)
 - responsive
 - user authentication & roles
 - admin interface (CRUD)
 
+[[groups](groups.md)]
 [[retro](retro.md)]
 [[rendus](rendus.md)]
