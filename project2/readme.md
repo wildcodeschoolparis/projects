@@ -17,11 +17,12 @@ Vous présenterez vos travaux en situation de live demo devant le client, entrai
 
 - groupe 5/6 personnes (random)
 - scrum/agile (1 week sprints)
-- responsive
-- git & github
-- backend/frontend
+- git workflow / github
+- backend API (nodeJS)
 - database (SQL)
 - routing (express)
+- frontend (github pages)
+- responsive
 - user authentication & roles
 - admin interface (CRUD)
 
