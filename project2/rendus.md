@@ -1,7 +1,7 @@
 # Project 2 - rendus
 
 ### group1: Wildeer
- Wildeer
+
 - christian.lim
 - louise.foussat
 - quentin.roiseux
