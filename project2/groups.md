@@ -7,5 +7,5 @@
 - group5: capucine.leclerc, sophie.michaudel, kim.spychalski, samuel.sarano, frederic.olive, romain.reslinger
 - group6: amel.braiek, guillaume.nobis, daniel.deutsch, souhail.souid, lorraine.chastang, frederic.paquet
 - group7: joffrey.chauleau, sichelle.chiffert, mohand.hassam, edouard.de.laage, francesca.ringot
-- group8: pany.soukaloun, nadia.djellali, smain.khaldi, gaelle.fougere, valery.chin
-- group9: bogdan.ceu, mikael.verdu, pierre.poretti, alexis.theyssier, carlos.facchin
+- group8: pany.soukaloun, nadia.djellali, smain.khaldi, valery.chin
+- group9: bogdan.ceu, mikael.verdu, pierre.poretti, alexis.theyssier, carlos.facchin, gaelle.fougere
