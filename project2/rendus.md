@@ -1,6 +1,6 @@
 # Project 2 - rendus
 
-### group1: Wildeer
+### Wildeer
 
 - christian.lim
 - louise.foussat
@@ -11,7 +11,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-w1lDe3r-keurkeur)
 
-### group2: Wild Connection
+### Wild Connection
 
 - mehdi.chtira
 - yann.coulleau
@@ -22,7 +22,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-wild-connection)
 
-### group3: In the Wild
+### In the Wild
 
 - benoit.rameau
 - samy.kacemi
@@ -33,7 +33,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-in-the-wild)
 
-### group4: Wild Source
+### Wild Source
 
 - charles.chiacchia
 - helena.domlan
@@ -44,7 +44,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-wild-source)
 
-### group5: Les tontons fringale
+### Les tontons fringale
 
 - capucine.leclerc
 - sophie.michaudel
@@ -55,7 +55,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-les-tontons-fringale)
 
-### group6: Wild News
+### Wild News
 
 - amel.braiek
 - guillaume.nobis
@@ -66,7 +66,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-wild-news)
 
-### group7: WildBook
+### WildBook
 
 - joffrey.chauleau
 - sichelle.chiffert
@@ -76,7 +76,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-wild-book)
 
-### group8: Loop 4
+### Loop 4
 
 - pany.soukaloun
 - nadia.djellali
@@ -85,7 +85,7 @@
 
 [sources](https://github.com/WildCodeSchool/paris-0218-loop-4)
 
-### group9: Vie de Dev
+### Vie de Dev
 
 - bogdan.ceu
 - mikael.verdu
