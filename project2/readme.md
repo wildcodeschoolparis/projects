@@ -22,7 +22,7 @@ Vous présenterez vos travaux en situation de live demo devant le client, entrai
 - database (mySQL)
 - routing (express)
 - frontend (github pages)
-- responsive
+- responsive (CSS with [milgram](https://milligram.io/))
 - user authentication & roles
 - admin interface (CRUD)
 
