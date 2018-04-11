@@ -89,7 +89,7 @@
 
 ---
 
-## [](https://shvan7.github.io/hackatonHeroes)
+## [Heroes Cards](https://shvan7.github.io/hackatonHeroes)
 
 - aurelio.lima.ferreira
 
@@ -144,7 +144,7 @@
 
 ---
 
-## Trash Catch (https://retrosys.github.io/Trash_Catch/)
+## [Trash Catch](https://retrosys.github.io/Trash_Catch/)
 
 - pierre.poretti
 
