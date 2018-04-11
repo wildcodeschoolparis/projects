@@ -4,6 +4,8 @@
 
 > Super Heroes Fighters
 
+![heroes1](heroes1.gif)
+
 ## objective
 
 Réaliser un site utilisant l'API de superhéros, et s'éclater.
@@ -13,6 +15,8 @@ Exemple:
 - Système de Points de vie
 - Tour par tour jusqu’au KO
 - Résumé de combat
+
+![heroes2](heroes2.gif)
 
 ## dates
 05/04/18 (14h) -> 06/04/18 (14h) live demo
